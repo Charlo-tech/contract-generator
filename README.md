@@ -14,8 +14,8 @@ This is a Smart Contract Generator & Deployer application. It uses Express.js fo
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-repo.git
-    cd your-repo
+    git clone https://github.com/Charlo-tech/contract-generator.git
+    cd contract-generator
     ```
 
 2. **Install dependencies:**
@@ -85,6 +85,8 @@ Deploys a smart contract to the Aelf blockchain.
 # Smart Contract Generator & Deployer Frontend
 
 This is the frontend for a Smart Contract Generator & Deployer application built with React. It allows users to input parameters, generate a smart contract from a template, and deploy the contract to the Aelf blockchain.
+
+
 
 ## Prerequisites
 
