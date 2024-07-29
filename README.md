@@ -57,12 +57,12 @@ Generates a smart contract from a template stored in Google Cloud Storage.
 
 Response
 
-json
+
 {
     "success": true,
     "contract": "string"
 }
-```
+
 
 ### `POST /deploy`
 
@@ -79,10 +79,10 @@ Deploys a smart contract to the Aelf blockchain.
 ```
 
 
-### Frontend (`App.js`) README
+### RuitaCR Stackup Frontend (`App.js`) README
 
 ```markdown
-# Smart Contract Generator & Deployer Frontend
+# Ruitacr stackup aelf & GCP Smart Contract Generator & Deployer Frontend
 
 This is the frontend for a Smart Contract Generator & Deployer application built with React. It allows users to input parameters, generate a smart contract from a template, and deploy the contract to the Aelf blockchain.
 
