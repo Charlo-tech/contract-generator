@@ -55,9 +55,9 @@ Generates a smart contract from a template stored in Google Cloud Storage.
     }
 }
 
-#### Response
+Response
 
-```json
+json
 {
     "success": true,
     "contract": "string"
