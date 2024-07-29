@@ -62,6 +62,7 @@ Response
     "success": true,
     "contract": "string"
 }
+```
 
 
 ### `POST /deploy`
